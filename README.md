@@ -22,7 +22,7 @@
 
 1. Запустите скрипт:
    ```bash
-   python wb_image_downloader.py
+   python wildberries_img_download.py
    ```
 2. Введите артикул товара или ссылку на товар Wildberries
 3. Скрипт автоматически найдет и скачает все доступные изображения товара
